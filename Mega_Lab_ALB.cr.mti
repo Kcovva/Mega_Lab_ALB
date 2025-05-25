@@ -1,0 +1,58 @@
+C:/Users/lc/Desktop/kpi/II-2/Kc/Mega_Lab_ALB/top.v {1 {vlog -work work -nocovercells C:/Users/lc/Desktop/kpi/II-2/Kc/Mega_Lab_ALB/top.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}} C:/Users/lc/Desktop/kpi/II-2/Kc/Mega_Lab_ALB/alb.v {1 {vlog -work work -nocovercells C:/Users/lc/Desktop/kpi/II-2/Kc/Mega_Lab_ALB/alb.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module alb
+
+Top level modules:
+	alb
+
+} {} {}} C:/Users/lc/Desktop/kpi/II-2/Kc/Mega_Lab_ALB/op_10.v {1 {vlog -work work -nocovercells C:/Users/lc/Desktop/kpi/II-2/Kc/Mega_Lab_ALB/op_10.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module op_10
+
+Top level modules:
+	op_10
+
+} {} {}} C:/Users/lc/Desktop/kpi/II-2/Kc/Mega_Lab_ALB/f_mux.v {1 {vlog -work work -nocovercells C:/Users/lc/Desktop/kpi/II-2/Kc/Mega_Lab_ALB/f_mux.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module f_mux
+
+Top level modules:
+	f_mux
+
+} {} {}} C:/Users/lc/Desktop/kpi/II-2/Kc/Mega_Lab_ALB/op_add_sub.v {1 {vlog -work work -nocovercells C:/Users/lc/Desktop/kpi/II-2/Kc/Mega_Lab_ALB/op_add_sub.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module op_add_sub
+-- Compiling module bitsum
+
+Top level modules:
+	op_add_sub
+
+} {} {}} C:/Users/lc/Desktop/kpi/II-2/Kc/Mega_Lab_ALB/checker.v {1 {vlog -work work -nocovercells C:/Users/lc/Desktop/kpi/II-2/Kc/Mega_Lab_ALB/checker.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module checker
+
+Top level modules:
+	checker
+
+} {} {}} C:/Users/lc/Desktop/kpi/II-2/Kc/Mega_Lab_ALB/stimulus.v {1 {vlog -work work -nocovercells C:/Users/lc/Desktop/kpi/II-2/Kc/Mega_Lab_ALB/stimulus.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module stimulus
+
+Top level modules:
+	stimulus
+
+} {} {}} C:/Users/lc/Desktop/kpi/II-2/Kc/Mega_Lab_ALB/op_00.v {1 {vlog -work work -nocovercells C:/Users/lc/Desktop/kpi/II-2/Kc/Mega_Lab_ALB/op_00.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module op_00
+
+Top level modules:
+	op_00
+
+} {} {}}
